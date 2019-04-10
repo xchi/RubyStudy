@@ -3,7 +3,7 @@ What?
 How?
 Why?
 
-##dynamically typed languages
+## 1. dynamically typed languages
 https://railsware.com/blog/2019/01/03/ruby-vs-java-elegance-contra-ubiquity/
 In dynamically typed languages, a programmer does not have to define types every time. Ruby doesn’t rely on types at all and cares about methods it needs to call on a given object (the famous duck-typing).
 
